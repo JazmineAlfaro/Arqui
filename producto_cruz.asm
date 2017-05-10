@@ -86,9 +86,9 @@ syscall # termina_programa
 tam: .word 3
 vector1: .float 2.1,1.5,1.1
 vector2: .float 1.7,3.2,0.2
-print1: .asciiz "El producto escalar es: "
 print2: .asciiz "\nEl producto vectorial es: "
 space: .asciiz "\n"
+
 
 
 
